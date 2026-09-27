@@ -56,9 +56,3 @@ Plants must be cared for independently of the experiment. Deliberately harming o
 Start with one instrumented plant and a display of raw measurements. After collecting a baseline, add regression and nearest-neighbor analysis, evaluate them against simple rules, and develop a small installation prototype.
 
 Further development would benefit from a plant-care specialist, a collaborator experienced with sensors and a sound artist. A later release could share appropriately documented measurements, reproducible analysis and the artistic mapping so others can examine the system's assumptions.
-
-## Acknowledgments
-
-- The Building AI course by the University of Helsinki and Reaktor provided the project structure and the introduction to regression, nearest-neighbor methods and overfitting.
-- The conceptual motivation is the relationship between non-human environments, artistic interpretation and machine learning.
-- No third-party code, images or dataset are included. Any future dependencies or reused materials should be credited with their respective licenses.
